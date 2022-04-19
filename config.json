@@ -1,0 +1,12 @@
+{
+  "source": {
+    "baseDir": "/src/",
+    "scss": "/src/assets/scss/index.scss",
+    "js": "/src/assets/js",
+    "partials": "/src/partials"
+  },
+  "build": {
+    "baseDir": "/build/",
+    "style": "/build/"
+  }
+}
